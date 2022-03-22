@@ -32,6 +32,9 @@ There will always be an increasing sequence of all possible permutations when ob
 {1,2,3} -> {1,3,2} -> {2,1,3} -> {2,3,1} -> {3,1,2} -> {3,2,1}
 ----------------- Increasing ---------------------------------->
 
+Time Complexity:- 3*O(N) approx. O(N)
+Space Complexity:- O(1)
+
 */
 
 class Solution {
